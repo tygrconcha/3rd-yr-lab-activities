@@ -1,6 +1,6 @@
 # 3rd Year Lab Activities
 
-A collection of practical laboratory notebooks and exercises completed during my 3rd year in **BS Data Science & Analytics, University of Santo Tomas.**
+A collection of laboratory notebooks and exercises completed during my 3rd year in **BS Data Science & Analytics, University of Santo Tomas.**
 
 ## Project Index
 
