@@ -19,9 +19,9 @@ A collection of laboratory notebooks and exercises completed during my 3rd year 
 
 | Folder | Focus | Description |
 | ------ | ----- | ----------- |
-| [**`Clustering/`**](./Principles%20of%20Big%20Data/Clustering) | Customer Segmentation & Clustering | Processes online retail data, computes RFM metrics, removes outliers, scales features, and uses the Elbow and Silhouette methods to find the best K. Applies K-Means (K=3) to segment customers and visualizes the results. |
-| [**`Predictive Modeling & Bayesian Methods/`**](./Principles%20of%20Big%20Data/Predictive%20Modeling%20%26%20Bayesian%20Methods) | Supervised Learning & Bayesian Inference | Explores a synthetic loan dataset and trains three models: Gaussian Naïve Bayes, a custom Bayesian Network, and tuned k-NN. Evaluates performance with 5-fold CV and includes a logistic regression demo and BN primer. |
-| [**`Time Series Forecasting/`**](./Principles%20of%20Big%20Data/Time%20Series%20Forecasting) | Time-Series Analysis & Forecasting | Downloads historical stock prices, checks for stationarity (ADF, KPSS), applies differencing, fits ARIMA and SARIMAX models via AIC-based grid search, and forecasts future values with residual checks. |
+| [**`Clustering/`**](.Principles%20of%20Big%20Data/Clustering) | Customer Segmentation & Clustering | Processes online retail data, computes RFM metrics, removes outliers, scales features, and uses the Elbow and Silhouette methods to find the best K. Applies K-Means (K=3) to segment customers and visualizes the results. |
+| [**`Predictive Modeling & Bayesian Methods/`**](.Principles%20of%20Big%20Data/Predictive%20Modeling%20and%20Bayesian%20Methods) | Supervised Learning & Bayesian Inference | Explores a synthetic loan dataset and trains three models: Gaussian Naïve Bayes, a custom Bayesian Network, and tuned k-NN. Evaluates performance with 5-fold CV and includes a logistic regression demo and BN primer. |
+| [**`Time Series Forecasting/`**](.Principles%20of%20Big%20Data/Time%20Series%20Forecasting) | Time-Series Analysis & Forecasting | Downloads historical stock prices, checks for stationarity (ADF, KPSS), applies differencing, fits ARIMA and SARIMAX models via AIC-based grid search, and forecasts future values with residual checks. |
 > **Note:** Each folder contains a `.ipynb` notebook and may include supplementary datasets or files.
 
 ## Purpose
